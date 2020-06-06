@@ -83,6 +83,13 @@
   color: white;
 }
 
+@media (max-width:575px){
+  #header .moon a{
+    /*position: fixed;
+    */top: 0px;
+    right: 10px;
+  }
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -312,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position:fixed;
-  top: 30px;
+  top: 50px;
   right: 55px;
   z-index: 9998;
   border: 0;
@@ -331,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav {
   position: fixed;
-  top: 55px;
+  top: 75px;
   right: 15px;
   bottom: 15px;
   left: 15px;
@@ -505,7 +512,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
   #hero .hero-img img {
-    width: 50%;
+    width: 60%;
   }
 
  /* section #hero{
