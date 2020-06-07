@@ -9,6 +9,11 @@
 # General
 --------------------------------------------------------------*/
 
+@media (max-width: 500px){
+.about{
+  margin-top: -50px;
+}
+}
 #arrow {
   position: relative;
   top: 0;
