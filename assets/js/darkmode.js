@@ -1,14 +1,14 @@
-let darkMode = localStorage.getItem("darkMode");
+let darkMode = sessionStorage.getItem("darkMode");
 const darkModeToggle = document.querySelector("#dark-mode-toggle");
 
 const enableDarkMode = () => {
 	document.body.classList.add("dark-mode");
-	localStorage.setItem("darkMode", "enabled");
+	sessionStorage.setItem("darkMode", "enabled");
 }
 
 const disableDarkMode = () => {
 	document.body.classList.remove("dark-mode");
-	localStorage.setItem("darkMode", null);
+	sessionStorage.setItem("darkMode", null);
 }
 
 if (darkMode === "enabled"){
@@ -16,13 +16,13 @@ if (darkMode === "enabled"){
 }
 
 darkModeToggle.addEventListener("click", () =>{
-	darkMode = localStorage.getItem("darkMode");
+	darkMode = sessionStorage.getItem("darkMode");
 	if(darkMode !== "enabled"){
 		enableDarkMode();
-		console.log(darkMode);
+		//console.log(darkMode);
 	}
 	else{
 		disableDarkMode();
-		console.log(darkMode);
+		//console.log(darkMode);
 	}
 })
