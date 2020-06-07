@@ -433,9 +433,10 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 
-@media (max-width:575px){
+@media (max-width:991px){
   #hero{
     padding: 30px;
+    margin-top: 70px;
   }
 }
 
