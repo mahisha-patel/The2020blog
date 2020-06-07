@@ -666,7 +666,7 @@ section {
   border-color: #eaecef;
 }
 
-.featured-services .icon-box:hover .title a {
+.featured-services .icon-box:hover .title{
   color: #16df7e;
 }
 
