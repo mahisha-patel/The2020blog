@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://mahisha-patel.github.io/The2020blog</title>
+  <link>https://mahisha-patel.github.io/The2020blog</link>
+
+<item>
+     <link>https://mahisha-patel.github.io/The2020blog/</link>
+     <title>The 2020 Blog</title>
+     <description>The 2020 Blog</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahisha-patel.github.io/The2020blog/index.html</link>
+     <title>The 2020 Blog</title>
+     <description>The events and incidents happening in the year 2020.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahisha-patel.github.io/The2020blog/covid.html</link>
+     <title>COVID-19</title>
+     <description>Corona Virus Disease , its symptoms and prevention</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahisha-patel.github.io/The2020blog/otherv.html</link>
+     <title>Outbreaks</title>
+     <description>Ebola virus, Hanta virus, USA protest, Australian bushfire</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mahisha-patel.github.io/The2020blog/india.html</link>
+     <title>Events within India</title>
+     <description>Gas leakage in Vizag , Cyclone Amphan , Cyclone Nisarg , Delhi riots , Locust Attack</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
